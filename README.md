@@ -31,6 +31,7 @@ Explique como rodar o seu projeto. Quais programas instalar, como configurar...
 * Criar uma conta developer e uma aplicação no Twitter
 * Gravar os tweets em BD não relacional e recuperá-los posteriormente
 * Ulilazar o simulador de arduino ( Simulide )
+* Programas utilizados: ArduinoIDE e SimulIDE
 
 Ou qualquer outra tabulação:
 
@@ -46,5 +47,7 @@ Adicione o link para assistir ao vídeo do projeto funcionando.
 
 ### Referências 
 
+* Aulas do professor Arnaldo Alves Viana Júnior (Disruptive Architectures IOT e IA)
+* 
 * [mastering-markdown](https://guides.github.com/features/mastering-markdown/)
 * [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
