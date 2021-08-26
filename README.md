@@ -28,8 +28,9 @@ Adicione uma ou mais fotos do projeto, pode ser uma imagem da arquitetura, do ci
 
 Explique como rodar o seu projeto. Quais programas instalar, como configurar... 
 
-* Pode ser utilizado marcadores
-* Para ajudar na formatação
+* Criar uma conta developer e uma aplicação no Twitter
+* Gravar os tweets em BD não relacional e recuperá-los posteriormente
+* Ulilazar o simulador de arduino ( Simulide )
 
 Ou qualquer outra tabulação:
 
