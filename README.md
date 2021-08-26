@@ -5,11 +5,12 @@ Esse é um guia simples, o grupo pode e deve modificar o template conforme neces
 # Nome do projeto
 
 **nome dos alunos:** 
-
+RM85455 - Mike Freire
+RM85225 - Carlos Eduardo Hayashi 
 **Turma:**
-
+ 2TDSF
 **Ano:**
-
+ 2° Ano
 ## Objetivo / descrição do Projeto
 
 Explique de forma clara qual o objeto deste projeto, para que serve e comente as principais tecnologias utilizadas. 
