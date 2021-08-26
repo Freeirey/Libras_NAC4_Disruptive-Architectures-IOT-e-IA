@@ -7,8 +7,12 @@ Esse é um guia simples, o grupo pode e deve modificar o template conforme neces
 **nome dos alunos:** 
 RM85455 - Mike Freire
 RM85225 - Carlos Eduardo Hayashi 
+
+
 **Turma:**
  2TDSF
+ 
+ 
 **Ano:**
  2° Ano
 ## Objetivo / descrição do Projeto
