@@ -1,7 +1,6 @@
 # Libras_NAC4
 
-Esse é um guia simples, o grupo pode e deve modificar o template conforme necessidade. 
-
+Projeto de arduino aplicado a cidades inteligentes Smart Cities. 
 # Nome do projeto
 
 **nome dos alunos:** 
