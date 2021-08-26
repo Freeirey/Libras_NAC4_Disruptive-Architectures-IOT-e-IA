@@ -23,7 +23,8 @@ Explique de forma clara qual o objeto deste projeto, para que serve e comente as
 
 Adicione uma ou mais fotos do projeto, pode ser uma imagem da arquitetura, do circuito eletrônico do Flow desenvolvido. 
 
-<img src="https://github.com/Freeirey/Libras_NAC4-Arduino/issues/1#issue-980222952" width="550">
+<img src="![Capturar](https://user-images.githubusercontent.com/64961755/130968439-c4e5798a-9cc8-4cf6-8c3c-9ff58f94dbc4.PNG)
+" width="550">
 
 ## Como usar 
 
