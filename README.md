@@ -25,8 +25,6 @@ Adicione uma ou mais fotos do projeto, pode ser uma imagem da arquitetura, do ci
 
 <img src="file:///C:/Users/Mike/Pictures/Saved%20Pictures/Capturar.PNG" width="550">
 
-![Alt text](/../<branch name>C:/Users/Mike/Pictures/Saved%20Pictures/Capturar.PNG?raw=true "")
-
 ## Como usar 
 
 Explique como rodar o seu projeto. Quais programas instalar, como configurar... 
