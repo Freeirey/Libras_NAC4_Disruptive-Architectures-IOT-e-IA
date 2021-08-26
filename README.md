@@ -30,7 +30,6 @@ Explique como rodar o seu projeto. Quais programas instalar, como configurar...
 
 * Criar uma conta developer e uma aplicação no Twitter
 * Gravar os tweets em BD não relacional e recuperá-los posteriormente
-* Ulilazar o simulador de arduino ( Simulide )
 * Programas utilizados: ArduinoIDE e SimulIDE
 
 Ou qualquer outra tabulação:
