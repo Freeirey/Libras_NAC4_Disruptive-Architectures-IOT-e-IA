@@ -35,8 +35,6 @@ Explique como rodar o seu projeto. Quais programas instalar, como configurar...
 Ou qualquer outra tabulação:
 
 - [x] Youtube
-- [ ] Facebook 
-- [x] Instagram
 
 Pode adicionar algum trecho de código, por exemplo para clonar esse repositório:
 
