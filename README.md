@@ -35,13 +35,6 @@ Ou qualquer outra tabulação:
 
 - [x] Youtube
 
-Pode adicionar algum trecho de código, por exemplo para clonar esse repositório:
-
-    cd /home/iot
-    git clone https://github.com/arnaldojr/templatenac
-    cd templatenac
-    ls
-
 
 ## Link de vídeo demonstração
 
