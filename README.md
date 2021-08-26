@@ -18,6 +18,8 @@ RM85225 - Carlos Eduardo Hayashi
 
 Explique de forma clara qual o objeto deste projeto, para que serve e comente as principais tecnologias utilizadas. 
 
+este aplicativo será usado para aprender a internet das coisas (IOT) usando o Node Red integrado ao Twitter. Este aplicativo possui uma proposta educacional. não comercial, seguindo os princípios éticos de uso da tecnologia.
+
 ## Diagrama do projeto
 
 Adicione uma ou mais fotos do projeto, pode ser uma imagem da arquitetura, do circuito eletrônico do Flow desenvolvido. 
