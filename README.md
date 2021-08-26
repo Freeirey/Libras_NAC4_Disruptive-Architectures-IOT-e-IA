@@ -16,9 +16,9 @@ RM85225 - Carlos Eduardo Hayashi
  2° Ano
 ## Objetivo / descrição do Projeto
 
-Explique de forma clara qual o objeto deste projeto, para que serve e comente as principais tecnologias utilizadas. 
-
 este aplicativo será usado para aprender a internet das coisas (IOT) usando o Node Red integrado ao Twitter. Este aplicativo possui uma proposta educacional. não comercial, seguindo os princípios éticos de uso da tecnologia.
+
+Este aplicativo irá obter meus próprios tweets e salvá-los em um banco de dados na nuvem. Meus tweets serão comandos para atuadores locais ativos. como LEDs.
 
 ## Diagrama do projeto
 
