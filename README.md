@@ -1,4 +1,4 @@
-# Libras_NAC4
+# Libras_NAC4_Disruptive Architectures IOT e IA
 
 Projeto de arduino aplicado a cidades inteligentes Smart Cities. 
 # Nome do projeto
@@ -44,7 +44,7 @@ Ou qualquer outra tabulação:
 
 Adicione o link para assistir ao vídeo do projeto funcionando.
 
-[Link para o video youtube](https://www.youtube.com/watch?v=xva71wynxS0)
+[Link para o video youtube](https://youtu.be/EXarrxe5YtM)
 
 
 ### Referências 
